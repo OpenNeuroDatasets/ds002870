@@ -1,0 +1,18 @@
+{
+  "Name": "CAMRI Rat Brain MRI Data",
+  "BIDSVersion": "1.0.1",
+  "Authors": [
+	  "Li-Ming Hsu",
+	  "Shuai Wang",
+	  "Paridhi Ranadive",
+	  "Woomi Ban",
+	  "Tzu-Hao Chao",
+	  "Sheng Song",
+	  "Domenic Hayden Cerri",
+	  "Lindsay Walton",
+	  "Margaret Broadwater",
+	  "Sung-Ho Lee",
+	  "Dinggang Shen",
+	  "Yenyu Ian Shih"
+      ]
+}
