@@ -1,18 +1,20 @@
 {
-  "Name": "CAMRI Rat Brain MRI Data",
-  "BIDSVersion": "1.0.1",
-  "Authors": [
-	  "Li-Ming Hsu",
-	  "Shuai Wang",
-	  "Paridhi Ranadive",
-	  "Woomi Ban",
-	  "Tzu-Hao Chao",
-	  "Sheng Song",
-	  "Domenic Hayden Cerri",
-	  "Lindsay Walton",
-	  "Margaret Broadwater",
-	  "Sung-Ho Lee",
-	  "Dinggang Shen",
-	  "Yenyu Ian Shih"
-      ]
+    "Name": "CAMRI Rat Brain MRI Data",
+    "BIDSVersion": "1.0.1",
+    "Authors": [
+        "Li-Ming Hsu",
+        "Shuai Wang",
+        "Paridhi Ranadive",
+        "Woomi Ban",
+        "Tzu-Hao Chao",
+        "Sheng Song",
+        "Domenic Hayden Cerri",
+        "Lindsay Walton",
+        "Margaret Broadwater",
+        "Sung-Ho Lee",
+        "Dinggang Shen",
+        "Yenyu Ian Shih"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002870.v1.0.0",
+    "License": "CC0"
 }
